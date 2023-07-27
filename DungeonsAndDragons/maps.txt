@@ -1,0 +1,3 @@
+Level: Width: Length: Treasures: Monsters:
+    5     50      65         10        13
+    6     80     105         16        21

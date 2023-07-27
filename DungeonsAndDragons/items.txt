@@ -1,0 +1,2 @@
+Item Level: Sword: Spell: Armor:
+         5     45     45     40
