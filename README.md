@@ -1,2 +1,3 @@
 # DungeonGame
-FMI project for Object Oriented Programming
+
+A simple dungeon game on console build on C++
